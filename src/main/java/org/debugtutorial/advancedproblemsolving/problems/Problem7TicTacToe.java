@@ -1,4 +1,4 @@
-package org.debugtutorial.newproblems;
+package org.debugtutorial.advancedproblemsolving.problems;
 
 /**
  * Your code was supposed to produce the following output:

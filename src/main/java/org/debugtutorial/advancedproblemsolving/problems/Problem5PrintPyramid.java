@@ -1,4 +1,4 @@
-package org.debugtutorial.newproblems;
+package org.debugtutorial.advancedproblemsolving.problems;
 
 /**
  * The goal is to construct a right diagonal:

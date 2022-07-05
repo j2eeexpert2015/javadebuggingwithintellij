@@ -1,11 +1,11 @@
-package org.debugtutorial.newproblems;
+package org.debugtutorial.advancedproblemsolving.solutions;
 
 /**
  * You can only apply for a mortgage if you're over 18 and have a good credit score (debt = 0).
  * The user is 30 and carries a debt of 5000. Yet, the code outputs:
  * We're processing your application
  */
-public class Problem1Conditions {
+public class Solution1Conditions {
     public static void main(String[] args) {
         int age = 30;
         double debt = 5000;

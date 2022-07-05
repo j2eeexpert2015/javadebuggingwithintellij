@@ -1,4 +1,4 @@
-package org.debugtutorial.newproblems;
+package org.debugtutorial.advancedproblemsolving.problems;
 
 /**
  * The first function should return a random number between 1 and 15.

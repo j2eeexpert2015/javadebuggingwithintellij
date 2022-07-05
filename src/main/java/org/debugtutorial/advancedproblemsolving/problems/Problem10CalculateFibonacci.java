@@ -1,4 +1,4 @@
-package org.debugtutorial.newproblems;
+package org.debugtutorial.advancedproblemsolving.problems;
 
 /**
  * The following method intends to compute the n-th Fibonacci number,
