@@ -8,7 +8,7 @@ package org.debugtutorial.advancedproblemsolving.problems;
  * Common mistake: 1 is not a prime number.
  * If you run the starter code, it will crash.
  */
-public class Problem2Methods {
+public class CheckRangeAndPrime {
     public static void main(String[] args) {
         int random = getRandomNumber(15);
         System.out.println("Random number is : " + random);
