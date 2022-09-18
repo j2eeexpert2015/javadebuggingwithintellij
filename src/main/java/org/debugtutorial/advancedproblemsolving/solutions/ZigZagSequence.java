@@ -1,4 +1,4 @@
-package org.debugtutorial.advancedproblemsolving.problems;
+package org.debugtutorial.advancedproblemsolving.solutions;
 
 import java.util.*;
 import java.lang.*;
