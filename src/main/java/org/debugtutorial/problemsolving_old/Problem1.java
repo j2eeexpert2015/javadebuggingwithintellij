@@ -1,4 +1,4 @@
-package org.debugtutorial.problemsolving;
+package org.debugtutorial.problemsolving_old;
 
 public class Problem1 {
 	public static void printCharacters(String word)
