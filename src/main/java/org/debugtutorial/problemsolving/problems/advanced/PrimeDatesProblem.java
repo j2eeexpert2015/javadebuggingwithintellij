@@ -1,8 +1,7 @@
-package org.debugtutorial.problemsolving.advanced;
+package org.debugtutorial.problemsolving.problems.advanced;
 import java.util.*;
 import java.lang.*;
-import java.io.*;
-import java.math.*;
+
 public class PrimeDatesProblem {
     public static int month[];
 

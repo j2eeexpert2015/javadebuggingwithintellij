@@ -1,4 +1,4 @@
-package org.debugtutorial.problemsolving.simple;
+package org.debugtutorial.problemsolving.problems.simple;
 
 /**
  * The file has TWO functions:
@@ -8,7 +8,7 @@ package org.debugtutorial.problemsolving.simple;
  * A prime number is not divisible by anything except itself and one .
  * Sample numbers are 19, 29, 41 etc.
  */
-public class CheckPrimeProblem {
+public class CheckPrime {
     public static void main(String[] args) {
         int randomNumber = getRandomNumber(15);
         System.out.println("Input Number: " + randomNumber);

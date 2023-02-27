@@ -1,4 +1,4 @@
-package org.debugtutorial.problemsolving.simple;
+package org.debugtutorial.problemsolving.problems.simple;
 
 import java.util.Arrays;
 import java.util.ArrayList;

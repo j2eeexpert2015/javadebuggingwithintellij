@@ -1,9 +1,8 @@
-package org.debugtutorial.problemsolving.advanced;
+package org.debugtutorial.problemsolving.problems.advanced;
 
 import java.util.*;
 import java.lang.*;
-import java.io.*;
-import java.math.*;
+
 public class ZigZagSequenceProblem {
     public static void main (String[] args) throws Exception {
         Scanner kb = new Scanner(System.in);

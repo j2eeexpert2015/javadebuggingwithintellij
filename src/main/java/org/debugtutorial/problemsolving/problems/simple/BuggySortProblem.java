@@ -1,4 +1,4 @@
-package org.debugtutorial.problemsolving.simple;
+package org.debugtutorial.problemsolving.problems.simple;
 
 public class BuggySortProblem {
     public static void main(String args[]) {

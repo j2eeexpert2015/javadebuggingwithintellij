@@ -1,4 +1,4 @@
-package org.debugtutorial.problemsolving.simple;
+package org.debugtutorial.problemsolving.problems.simple;
 /**
  * A number is called a smart number if it has an odd number of factors.
  * Given some numbers, find whether they are smart numbers or not.
