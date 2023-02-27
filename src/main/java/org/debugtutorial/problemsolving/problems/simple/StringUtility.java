@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * This program implements two methods related to String which has issues
  */
-public class StringUtilityProblems {
+public class StringUtility {
     /**
      * Main program to test the methods countOccurrences and reverseString
      *

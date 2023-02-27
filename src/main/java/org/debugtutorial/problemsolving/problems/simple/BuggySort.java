@@ -1,6 +1,6 @@
 package org.debugtutorial.problemsolving.problems.simple;
 
-public class BuggySortProblem {
+public class BuggySort {
     public static void main(String args[]) {
         int data[] = {45, 2, 33, 11, 5, 9, 7, 21, 10, 67, 99, 123, 42, 81, 100, 54};
 

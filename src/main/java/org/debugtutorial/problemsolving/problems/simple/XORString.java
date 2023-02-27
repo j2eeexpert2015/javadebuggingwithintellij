@@ -17,7 +17,7 @@ import java.util.*;
  * Sample Output
  * 10000
  */
-public class XORStringProblem {
+public class XORString {
     public static String stringsXOR(String s, String t) {
         String res = new String("");
         for(int i = 0; i < s.length(); i++) {

@@ -1,6 +1,6 @@
 package org.debugtutorial.problemsolving.problems.simple;
 
-public class BuyCandiesProblem {
+public class BuyCandies {
     public static void main(String[] args) {
         double candyPrice =0.10; //Candy Price is 10 cents
         double totalBudget =1.0; //Total budget is 10 USD

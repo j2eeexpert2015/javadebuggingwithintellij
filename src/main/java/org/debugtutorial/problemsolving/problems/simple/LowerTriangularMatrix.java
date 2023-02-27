@@ -14,7 +14,7 @@ import java.util.Arrays;
  * [2, 4, 0]
  */
 
-public class LowerTriangularMatrixProblem {
+public class LowerTriangularMatrix {
     public static void main(String[] args) {
         int[][] matrix = new int[][] {
                 {1, 2, 3},

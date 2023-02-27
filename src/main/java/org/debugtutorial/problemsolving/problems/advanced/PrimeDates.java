@@ -2,7 +2,7 @@ package org.debugtutorial.problemsolving.problems.advanced;
 import java.util.*;
 import java.lang.*;
 
-public class PrimeDatesProblem {
+public class PrimeDates {
     public static int month[];
 
     public static void main (String[] args) throws Exception {

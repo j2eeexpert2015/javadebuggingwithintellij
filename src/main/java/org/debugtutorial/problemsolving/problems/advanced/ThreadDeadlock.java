@@ -1,6 +1,6 @@
 package org.debugtutorial.problemsolving.problems.advanced;
 
-public class ThreadDeadlockProblem {
+public class ThreadDeadlock {
     public static Object lock1 = new Object();
     public static Object lock2 = new Object();
 

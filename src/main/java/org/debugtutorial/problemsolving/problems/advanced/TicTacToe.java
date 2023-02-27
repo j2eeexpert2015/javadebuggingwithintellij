@@ -21,7 +21,7 @@ package org.debugtutorial.problemsolving.problems.advanced;
  *
  * O WINS!
  */
-public class TicTacToeProblem {
+public class TicTacToe {
     public static void main(String[] args) {
         char[][] array = {
             {'_', '_', '_'},

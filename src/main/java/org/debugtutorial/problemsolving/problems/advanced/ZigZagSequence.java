@@ -3,7 +3,7 @@ package org.debugtutorial.problemsolving.problems.advanced;
 import java.util.*;
 import java.lang.*;
 
-public class ZigZagSequenceProblem {
+public class ZigZagSequence {
     public static void main (String[] args) throws Exception {
         Scanner kb = new Scanner(System.in);
         int test_cases = kb.nextInt();
